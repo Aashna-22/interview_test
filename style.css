@@ -140,7 +140,7 @@ ul {
   }
   .about {
   position: relative;
-  background: url("../images/download.jpg") no-repeat top center/cover;
+  background: url("images/download.jpg") no-repeat top center/cover;
   height: 600px;
   display: flex;
   align-items: center;
